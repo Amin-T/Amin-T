@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amin-T
 - 👀 I’m interested in Data Science, Machine Learning, and Finance.
 - 🌱 I’m a doctoral researcher at KU Leuven and a freelance data scientist.
-- 📫 Please reach me via this link https://lnk.bio/qw2c
+- 📫 Please reach me via this [link](https://lnk.bio/qw2c)
 
 <!---
 Amin-T/Amin-T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
