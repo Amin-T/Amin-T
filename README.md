@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amin-T
 - 👀 I’m interested in Data Science, Machine Learning, and Finance.
-- 🌱 I’m a freelance data scientist.
+- 🌱 I’m a doctoral researcher at KU Leuven and a freelance data scientist.
 - 📫 Please reach me via this [link](https://lnk.bio/qw2c)
 
 <!---
